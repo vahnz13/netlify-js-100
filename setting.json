@@ -29,6 +29,10 @@
       "element-remove-selector":[
         ".primary-image__media"
       ],
+	  "target":"www.michaelpage.com.au",
+      "element-remove-selector":[
+        ".advice__media"
+      ],
       "replace-string":[
         {
           "target":"https://stackoverflow.com",
