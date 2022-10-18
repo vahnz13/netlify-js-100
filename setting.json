@@ -25,6 +25,10 @@
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
+	  "target":"www.thebalancemoney.com",
+      "element-remove-selector":[
+        ".primary-image__media"
+      ],
       "replace-string":[
         {
           "target":"https://stackoverflow.com",
